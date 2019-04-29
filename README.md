@@ -5,10 +5,10 @@ It takes 2 operands and only 1 in 4 operators.
 
 FUNCTIONS
 ####################################################
-+  Addition operand: sums the two operands.
--  Subtraction operand: subtracts the two operands.
-*  Multiplication operand: Multiply the two operands.
-/ Division operand: Divide the two operands.
+'+'  Addition operand: sums the two operands.
+'-'  Subtraction operand: subtracts the two operands.
+'*'  Multiplication operand: Multiply the two operands.
+'/'  Division operand: Divide the two operands.
 
 
 USAGE
